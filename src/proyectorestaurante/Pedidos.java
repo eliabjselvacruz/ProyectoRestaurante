@@ -30,9 +30,6 @@ public class Pedidos {
         this.PrecioPostre = PrecioPostre;
     }
 
-    public Pedidos() {
-    }
-
     public String getPrimerPlato() {
         return PrimerPlato;
     }
